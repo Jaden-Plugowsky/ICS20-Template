@@ -1,0 +1,40 @@
+/* Created by: Jaden Plugowsky
+* Created on: March 2023
+* This file contains the CSS for index.html
+*/
+
+/* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
+*/
+.mdl-ripple {
+  background: #000;
+  opacity: 0.001;
+}
+
+body {
+  background-color: rgba(145 17 145 / 4380%);
+}
+
+a {
+  font-size: 30px;
+  background-color: white;
+  padding-left: 20px;
+}
+
+.mdl-content {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 30px;
+  color: black;
+}
+
+.mdl-layout__header-row {
+  justify-content: center;
+}
+
+.mdl-layout-title {
+  color: white;
+}
+
+#button-one {
+  margin-left: 60px;
+}
