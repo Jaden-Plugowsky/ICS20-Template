@@ -5,5 +5,5 @@
 // This file contains the JS functions for index.html
 
 function buttonOneClicked() {
-    alert('Hello, World!')
-  }
+  alert("Hello, World!")
+}
