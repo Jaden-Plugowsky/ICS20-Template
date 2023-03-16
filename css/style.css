@@ -21,13 +21,11 @@ a {
 }
 
 .right-image {
-  display: block;
   height: auto;
   width: 250px;
   float: right;
+  margin-right: 150px;
 }
-
-/* float: right; */
 
 .mdl-content {
   font-size: 30px;
@@ -49,4 +47,8 @@ a {
 #button-one {
   margin-left: 60px;
   margin-top: 10px;
+}
+
+#header-fix {
+  font-size: 50px;;
 }
