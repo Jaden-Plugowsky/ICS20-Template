@@ -1,4 +1,4 @@
-# ICS2O ⇢ Unit #1-07
+# ICS2O ⇢ Template
 
 - **THIS LINKS TO EVERYTHING Unit #1-07, AND I DO NOT KNOW HOW TO RECONFIGURE AND/OR MAKE IT ADAPTABLE.**
 - So, don't use these links I suppose.
