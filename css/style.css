@@ -1,5 +1,5 @@
 /* Created by: Jaden Plugowsky
-* Created on: March 2023
+* Created on: June 2023
 * This file contains the CSS for index.html
 */
 
@@ -22,13 +22,14 @@ a {
 
 .right-image {
   height: auto;
-  width: 250px;
+  width: 450px;
   float: right;
   margin-right: 150px;
 }
 
 .mdl-content {
   font-size: 30px;
+  line-height: 30px;
 }
 
 .mdl-layout__content {
@@ -42,6 +43,10 @@ a {
 
 .mdl-layout-title {
   color: white;
+}
+
+.page-content-answer {
+  font-size: 20px;
 }
 
 #button-one {

@@ -1,0 +1,24 @@
+{
+  "name": "Jaden Plugowsky's App",
+  "short_name": "Jaden Plugowsky's App",
+  "description": "Github Page for Jaden Plugowsky's App",
+  "scope": "/ICS2O-Template/",
+  "start_url": "/ICS2O-Template/",
+  "icons": [
+    {
+      "src": "./android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone"
+}
