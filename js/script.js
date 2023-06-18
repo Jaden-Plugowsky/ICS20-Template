@@ -4,7 +4,7 @@
 // Created on: June 2023
 // This file contains the JS functions for index.html
 
-"use strict";
+"use strict"
 
 // Checks service worker
 if (navigator.serviceWorker) {
